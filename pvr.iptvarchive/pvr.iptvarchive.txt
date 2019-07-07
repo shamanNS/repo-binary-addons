@@ -1,0 +1,1 @@
+pvr.iptvarchive https://github.com/shamanNS/pvr.iptvsimple cutv
